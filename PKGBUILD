@@ -6,7 +6,7 @@ pkgver=0.0.2
 pkgrel=1
 pkgdesc="A glorified personal dot files"
 arch=("x86_64")
-url="https://github.com/manilarome/the-glorious-dotfiles"
+url="https://github.com/C0D3-M4513R/the-glorious-dotfiles"
 license=("AGPL3")
 depends=(
 	"awesome-git"
