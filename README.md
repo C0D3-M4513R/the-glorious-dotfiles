@@ -11,7 +11,7 @@
 
 <div align='center'>
 
-[![maintained](https://img.shields.io/maintenance/yes/2020?label=maintained&style=flat-square)](https://github.com/manilarome/the-glorious-dotfiles/commits/master) [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/manilarome/the-glorious-dotfiles/pulls) [![HitCount](http://hits.dwyl.com/manilarome/Glorified-Dotfiles.svg)](http://hits.dwyl.com/manilarome/the-glorified-dotfiles)
+[![maintained](https://img.shields.io/maintenance/yes/2021?label=maintained&style=flat-square)](https://github.com/C0D3-M4513R/the-glorious-dotfiles/commits/master) [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/C0D3-M4513R/the-glorious-dotfiles/pulls) [![HitCount](http://hits.dwyl.com/C0D3-M4513R/Glorified-Dotfiles.svg)](http://hits.dwyl.com/C0D3-M4513R/the-glorified-dotfiles)
 
 </div>
 
@@ -194,40 +194,40 @@ Some of these are outdated, so it is better if you try them yourself.
 
 | Lockscreen with [PAM Integration](https://github.com/RMTT/lua-pam) |
 | --- |
-| ![Screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/lockscreen.webp) |
+| ![Screenshot](https://raw.githubusercontent.com/C0D3-M4513R/the-glorious-screenshots/master/lockscreen.webp) |
 
 | Application Menu |
 | --- |
-| ![Screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/app-menu.webp) |
+| ![Screenshot](https://raw.githubusercontent.com/C0D3-M4513R/the-glorious-screenshots/master/app-menu.webp) |
 
 | Exit Screen |
 | --- |
-| ![Screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/exit-screen.webp) |
+| ![Screenshot](https://raw.githubusercontent.com/C0D3-M4513R/the-glorious-screenshots/master/exit-screen.webp) |
 
 | Multihead |
 | --- |
-| ![Screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/multihead.webp) |
+| ![Screenshot](https://raw.githubusercontent.com/C0D3-M4513R/the-glorious-screenshots/master/multihead.webp) |
 
 | [Rofi Global Search](https://github.com/manilarome/rofi-spotlight) |
 | --- |
-| ![Screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/rofi-global.webp) |
+| ![Screenshot](https://raw.githubusercontent.com/C0D3-M4513R/the-glorious-screenshots/master/rofi-global.webp) |
 
 | [blurredfox CSS theme for Firefox](https://github.com/manilarome/blurredfox/) |
 | --- |
-| ![Screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/blurredfox.webp) |
+| ![Screenshot](https://raw.githubusercontent.com/C0D3-M4513R/the-glorious-screenshots/master/blurredfox.webp) |
 
 | [glorious - lightdm-webkit2-theme](https://github.com/manilarome/lightdm-webkit2-theme-glorious/) |
 | --- |
-| ![Screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/lightdm.webp) |
+| ![Screenshot](https://raw.githubusercontent.com/C0D3-M4513R/the-glorious-screenshots/master/lightdm.webp) |
 
 | [thunderblurred CSS theme for Thunderbird](https://github.com/manilarome/thunderblurred) |
 | --- |
-| ![Screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/thunderblurred.webp) |
+| ![Screenshot](https://raw.githubusercontent.com/C0D3-M4513R/the-glorious-screenshots/master/thunderblurred.webp) |
 
 ## Credits
 
 Grazie
 
-- [Contributors](https://github.com/manilarome/the-glorious-dotfiles/graphs/contributors)
+- [Contributors](https://github.com/C0D3-M4513R/the-glorious-dotfiles/graphs/contributors)
 - [awesomewm devs](https://github.com/awesomeWM/awesome/graphs/contributors)
 - The community of course
